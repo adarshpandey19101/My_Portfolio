@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/BGabout.jpg";
 
 const imageAltText = "purple and blue abstract background";
 
@@ -24,18 +24,18 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "As a passionate web developer and graphic designer, I create visually captivating and user-friendly digital experiences. I am currently pursuing a B.E. in Computer Science and Engineering at Panjab University Swami Sarvanand Giri Regional Centre, Hoshiarpur, where I have honed my skills in various programming languages, including C++, Basic Python, HTML, CSS, JavaScript, and PHP.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
+  "Web Development",
+  "Business Development",
+  "Digital Marketing",
+  "Human Resource",
+  "Team Management",
   "Graphic design",
 ];
 
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "In addition to my academic pursuits, I am also an entrepreneur and a community leader. I am the CEO and Founder of Coding Bits, a platform that provides web development and graphic design services to clients. I am also the Marketing Manager of Eduhub Community, an online learning platform that offers courses and workshops on various topics.";
 
 const About = () => {
   return (
